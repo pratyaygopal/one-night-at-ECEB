@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="fnaf" location="C:/Users/Poiku/Documents/ECE385/fnaf/fnaf_sdk/fnaf" platform="C:/Users/Poiku/Documents/ECE385/fnaf/fnaf_sdk/mb_usb_hdmi_top/export/mb_usb_hdmi_top/mb_usb_hdmi_top.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="fnaf_system" sysConfig="mb_usb_hdmi_top" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="6fdf276950d9f1c8a0a0b0c3ba2c360f">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.2145864980">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.565872562" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

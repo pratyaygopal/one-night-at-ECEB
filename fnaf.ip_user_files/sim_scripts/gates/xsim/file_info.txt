@@ -1,0 +1,2 @@
+gates.v,verilog,xil_defaultlib,../../../../fnaf.gen/sources_1/ip/gates/sim/gates.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

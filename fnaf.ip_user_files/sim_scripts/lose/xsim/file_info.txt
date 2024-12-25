@@ -1,0 +1,2 @@
+lose.v,verilog,xil_defaultlib,../../../../fnaf.gen/sources_1/ip/lose/sim/lose.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

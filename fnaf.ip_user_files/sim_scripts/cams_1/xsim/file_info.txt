@@ -1,0 +1,2 @@
+cams.v,verilog,xil_defaultlib,../../../../fnaf.gen/sources_1/ip/cams_1/sim/cams.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

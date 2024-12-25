@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../fnaf.gen/sources_1/ip/controls/sim/controls.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

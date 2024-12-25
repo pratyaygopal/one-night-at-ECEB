@@ -1,0 +1,7 @@
+Running: xsim.dir/fnaf_test_behav/xsimk.exe -simmode gui -wdb fnaf_test_behav.wdb -simrunnum 0 -socket 62441
+Design successfully loaded
+Design Loading Memory Usage: 10872 KB (Peak: 10872 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 14016 KB (Peak: 14016 KB)
+Simulation CPU Usage: 93 ms

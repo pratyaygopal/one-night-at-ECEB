@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;fnaf/src/helloworld.c&apos;" deleteContents="false" description="Delete resource &apos;fnaf/src/helloworld.c&apos;" element1="/fnaf/src/helloworld.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1732840195412"/>&#x0A;<refactoring comment="Delete resource &apos;fnaf/src/lscript.ld&apos;" deleteContents="false" description="Delete resource &apos;fnaf/src/lscript.ld&apos;" element1="/fnaf/src/lscript.ld" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1732840200568"/>
+</session>

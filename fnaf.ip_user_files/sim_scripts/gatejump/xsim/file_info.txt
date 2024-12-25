@@ -1,0 +1,2 @@
+gatejump.v,verilog,xil_defaultlib,../../../../fnaf.gen/sources_1/ip/gatejump/sim/gatejump.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

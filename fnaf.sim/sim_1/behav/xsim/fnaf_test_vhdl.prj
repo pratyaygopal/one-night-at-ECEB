@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_microblaze_0_axi_intc_0/sim/mb_fnaf_microblaze_0_axi_intc_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_ilmb_v10_0/sim/mb_fnaf_ilmb_v10_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_axi_quad_spi_0_0/sim/mb_fnaf_axi_quad_spi_0_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_mdm_1_0/sim/mb_fnaf_mdm_1_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_axi_uartlite_0_0/sim/mb_fnaf_axi_uartlite_0_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_axi_gpio_0_0/sim/mb_fnaf_axi_gpio_0_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_microblaze_0_0/sim/mb_fnaf_microblaze_0_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_axi_gpio_0_1/sim/mb_fnaf_axi_gpio_0_1.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_dlmb_bram_if_cntlr_0/sim/mb_fnaf_dlmb_bram_if_cntlr_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_dlmb_v10_0/sim/mb_fnaf_dlmb_v10_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_rst_clk_wiz_1_100M_0/sim/mb_fnaf_rst_clk_wiz_1_100M_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_ilmb_bram_if_cntlr_0/sim/mb_fnaf_ilmb_bram_if_cntlr_0.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_axi_gpio_0_2/sim/mb_fnaf_axi_gpio_0_2.vhd" \
+"../../../../fnaf.ip_user_files/bd/mb_fnaf/ip/mb_fnaf_axi_timer_0_0/sim/mb_fnaf_axi_timer_0_0.vhd" \
+
+# Do not sort compile order
+nosort

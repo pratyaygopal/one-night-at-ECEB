@@ -1,0 +1,6 @@
+00:20:57 **** Build of configuration Debug for project fnaf_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+00:20:57 Build Finished (took 188ms)
+
